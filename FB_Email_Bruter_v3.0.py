@@ -1,6 +1,6 @@
 '''
 
-Facebook Email Bruter v1
+Facebook Email Bruter v3
 Developers: Ñasir Ali (Tiger6117) &
             Azaz Tahir Selabi (azaztahir.azaztahir)
 
